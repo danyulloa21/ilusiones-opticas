@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author fofap
+ * @author daniel
  */
 public class set1 extends javax.swing.JFrame {
 

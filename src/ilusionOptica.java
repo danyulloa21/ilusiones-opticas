@@ -9,7 +9,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author fofap
+ * @author daniel
  */
 public class ilusionOptica extends javax.swing.JFrame {
 

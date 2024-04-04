@@ -8,7 +8,7 @@ import java.awt.Graphics;
 
 /**
  *
- * @author jesus
+ * @author daniel
  */
 public class set2 extends javax.swing.JFrame {
 
